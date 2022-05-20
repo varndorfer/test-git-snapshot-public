@@ -1,1 +1,1 @@
-# Testing Snapshot Git for Private Repo
+# Testing Snapshot Git for Public Repo
